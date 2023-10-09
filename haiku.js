@@ -7,6 +7,16 @@ function Haiku2(){
 }
 
 
+
+
+
+function Haiku3(){
+    console.log("- Matsuo Bashō")
+    console.log("In the cicada's cry");
+    console.log("No sign can foretell");
+    console.log("How soon it must die.");
+}
+
 //plak hier de haiku functions onder elkaar
 function Haiku1() {
     console.log("The wren\nEarns his living\nNoiselessly.")
